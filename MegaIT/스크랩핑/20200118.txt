@@ -1,0 +1,15 @@
+http://w3schools.com/
+
+대부분의 태그(<...)는 글자를 가진다.
+<tagname>Content goes here...</tagname>
+<br> : 줄바꿈
+<a> tag. The link address is specified in the href attribute : 클릭 가능한 태그
+<a href => : 속성 추가
+<p> : 문단 태그
+* 태그가 끝날때 줄바꿈이 안 일어날수도 있다.
+<.. style> : 모든 태그에 사용가능
+class 속성을 스크랩핑 할때 제일 많이 쓰인다.
+
+색상은 네이버에 색상표를 검색후 복사한다.
+상대주소 : ./ 같은 위치에 있는 html문서 찾아가기
+<span> : 아무 의미 없는 태그

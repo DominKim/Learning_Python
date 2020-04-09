@@ -1,0 +1,8 @@
+분석을 잘하기위해서는 python 공부 필수
+ * 패키지는 분석을 용이하기 위해서 존재
+ * 분석을 잘하기 위해선 문법을 익힐 필요가 있음
+
+Eclipse IDE for Enterprise Java Developers
+ - download - 
+
+mysqlclient, django==2.0.5

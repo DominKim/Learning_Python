@@ -1,0 +1,6 @@
+정규표현식 문법	
+
+maria db
+열 추가 -> 기본값 AUTO_INCREMENT 하면 자동 행번호 추가
+
+열 id에 오른쪽 클릭 새 인덱스 생성 primary
