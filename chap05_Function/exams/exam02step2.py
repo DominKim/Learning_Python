@@ -14,7 +14,12 @@ emp = ["2014홍길동220", "2002이순신300", "2010유관순260"]
 
 # 함수 정의
 def pay_pro(emp):
-    pass    
+    from re import sub
+    from statistics import mean
+    pay = []
+    pay = [int(sub("[0-9]{4}[가-힣]{3}", "", text)) for text in emp]
+    pay_mean = mean(pay)
+    return pay_mean
 
 
 # 함수 호출 

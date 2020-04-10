@@ -13,7 +13,10 @@ emp = ["2014홍길동220", "2002이순신300", "2010유관순260"]
 
 # 함수 정의
 def name_pro(emp):
-    pass
+    from re import  findall
+    names = []
+    names = [findall("[가-힣]{3}", text)[0] for text in emp]
+    return  names
 
 
 # 함수 호출 
