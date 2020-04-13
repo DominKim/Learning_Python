@@ -7,16 +7,47 @@
 >> [step03_문자열](https://github.com/DominKim/Learning_Python/blob/master/chap01_Basic/lecture/step03_string.ipynb)
 >
 2. 조건문, 반복문
->>
+>> [step01_If(조건문)](https://github.com/DominKim/Learning_Python/blob/master/chap02_Cotrol/lecture/step01_if.ipynb)
+>
+>> [step02_While(반복문)](https://github.com/DominKim/Learning_Python/blob/master/chap02_Cotrol/lecture/step02_while.ipynb)
+>
+>> [step03_For(반복문)](https://github.com/DominKim/Learning_Python/blob/master/chap02_Cotrol/lecture/step03_for.ipynb)
 >
 3. 자료구조(리스트, 튜플, 세트, 딕셔너리)
->>
+>> [step01_List(리스트)](https://github.com/DominKim/Learning_Python/blob/master/chap03_DataStr/lecture/step01_list.ipynb)
+>
+>> [step02_List2](https://github.com/DominKim/Learning_Python/blob/master/chap03_DataStr/lecture/step02_list2.ipynb)
+>
+>> [step03_Tuple(튜플)](https://github.com/DominKim/Learning_Python/blob/master/chap03_DataStr/lecture/step03_tuple.ipynb)
+>
+>> [step04_Set(세트)](https://github.com/DominKim/Learning_Python/blob/master/chap03_DataStr/lecture/step04_set.ipynb)
+>
+>> [step05_Dict(딕셔너리)](https://github.com/DominKim/Learning_Python/blob/master/chap03_DataStr/lecture/step05_dict.ipynb)
 >
 4. 정규표현식
->>
+>> [step01_regEx](https://github.com/DominKim/Learning_Python/blob/master/chap04_RegExText/lecture/step01_regEx.ipynb)
+>
+>> [step02_Text_Preprocessing(텍스트 전처리)](https://github.com/DominKim/Learning_Python/blob/master/chap04_RegExText/lecture/step02_text_preprocessing.ipynb)
 >
 5. 함수(function)
->>
+>> [step01_Func_basic(함수 기초)](https://github.com/DominKim/Learning_Python/blob/master/chap05_Function/lecture/step01_func_basic.ipynb)
+>
+>> [step02_Func_app(함수 앱)](https://github.com/DominKim/Learning_Python/blob/master/chap05_Function/lecture/step02_func_app.py)
+>
+>> [step03_Func_args(함수의 가벼인수)](https://github.com/DominKim/Learning_Python/blob/master/chap05_Function/lecture/step03_func_args.ipynb)
+>
+>> [step04_Lambda_score(람다함수)](https://github.com/DominKim/Learning_Python/blob/master/chap05_Function/lecture/step04_lambda_score.ipynb)
+>
+>> [step05_Inner(내장 함수)](https://github.com/DominKim/Learning_Python/blob/master/chap05_Function/lecture/step05_inner.ipynb)
+>
+>> [step06_Recursive(재귀함수)](https://github.com/DominKim/Learning_Python/blob/master/chap05_Function/lecture/step06_recursive.ipynb)
 >
 6. 클래스(class) and 모듈(module)
->>
+>> [step01_Class_basic(함수기초)](https://github.com/DominKim/Learning_Python/blob/master/chap06_Class/lecture/step01_class_basic.ipynb)
+>
+>> [step02_Car](https://github.com/DominKim/Learning_Python/blob/master/chap06_Class/lecture/step02_Car.ipynb)
+>
+>> [step03_Tv](https://github.com/DominKim/Learning_Python/blob/master/chap06_Class/lecture/step03_TV.ipynb)
+>
+>> [step04_Account](https://github.com/DominKim/Learning_Python/blob/master/chap06_Class/lecture/step04_Account.ipynb)
+>
