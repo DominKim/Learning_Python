@@ -51,3 +51,23 @@
 >
 >> [step04_Account](https://github.com/DominKim/Learning_Python/blob/master/chap06_Class/lecture/step04_Account.ipynb)
 >
+7. 파일 입출력
+>> [step01_try(예외)](https://github.com/DominKim/Learning_Python/blob/master/chap07_FileIO/lecture/step01_try.ipynb)
+>
+>> [step02_text_file(텍스트 파일)](https://github.com/DominKim/Learning_Python/blob/master/chap07_FileIO/lecture/step02_text_file.ipynb)
+>
+>> [step03_text_file2](https://github.com/DominKim/Learning_Python/blob/master/chap07_FileIO/lecture/step03_text_file2.ipynb)
+>
+>> [step04_csv_excel](https://github.com/DominKim/Learning_Python/blob/master/chap07_FileIO/lecture/step04_csv_excel.ipynb)
+>
+>> [step05_json_file](https://github.com/DominKim/Learning_Python/blob/master/chap07_FileIO/lecture/step05_json_file.ipynb)
+>
+>> [step06_json_pickle](https://github.com/DominKim/Learning_Python/blob/master/chap07_FileIO/lecture/stpe06_json_pickle.ipynb)
+>
+8. 크롤링(Crawling)
+>> [step01_url_request](https://github.com/DominKim/Learning_Python/blob/master/chap08_Crawling/lecture/step01_url_request.ipynb)
+>
+>> [step02_tag_name](https://github.com/DominKim/Learning_Python/blob/master/chap08_Crawling/lecture/step02_tag_name.ipynb)
+>
+>> [step03_tag_attr](https://github.com/DominKim/Learning_Python/blob/master/chap08_Crawling/lecture/step03_tag_attr.ipynb)
+>
