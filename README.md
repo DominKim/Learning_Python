@@ -71,3 +71,9 @@
 >
 >> [step03_tag_attr](https://github.com/DominKim/Learning_Python/blob/master/chap08_Crawling/lecture/step03_tag_attr.ipynb)
 >
+>> [stpe04_step04_selector(선택자(css))](https://github.com/DominKim/Learning_Python/blob/master/chap08_Crawling/lecture/step04_selector.ipynb)
+>
+>> [step05_newsCrawling](https://github.com/DominKim/Learning_Python/blob/master/chap08_Crawling/lecture/step05_newsCrawling.ipynb)
+>
+>> [step06_word_count](https://github.com/DominKim/Learning_Python/blob/master/chap08_Crawling/lecture/step06_step06_word_count.ipynb)
+>
