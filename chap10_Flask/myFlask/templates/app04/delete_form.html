@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>delete page</title>
+</head>
+<body>
+    <div align="center">
+        <img src = {{url_for("static", filename = "delete.jpg")}}>
+        <h1> 삭제 페이지 </h1>
+        <form method="get" action="/delete">
+            <table border="1" width="350">
+                <tr>
+                    <th> 삭제할 코드 입력 : </th>
+                    <th> <input type="text" name = "code" size="15"> </th>
+                </tr>
+                <tr>
+                    <th colspan="2">
+                        <input type="submit" value="전송">
+                        <input type="reset" value="취소">
+                    </th>
+                </tr>
+            </table>
+        </form>
+    </div>
+</body>
+</html>
