@@ -77,3 +77,18 @@
 >
 >> [step06_word_count](https://github.com/DominKim/Learning_Python/blob/master/chap08_Crawling/lecture/step06_step06_word_count.ipynb)
 >
+9. 데이터베이스(Database)
+> lecture01_sqlite
+>> [step01_sqlite_test](https://github.com/DominKim/Learning_Python/blob/master/chap09_Database/lecture01_sqlite/step01_sqlite_test.ipynb)
+>
+>> [step02_CRUD](https://github.com/DominKim/Learning_Python/blob/master/chap09_Database/lecture01_sqlite/step02_CRUD.ipynb)
+>
+> lecture02_mariaDB
+>> [step01_mariadb_test](https://github.com/DominKim/Learning_Python/blob/master/chap09_Database/lecture02_mariaDB/step01_mariadb_test.ipynb)
+>
+>> [step02_CRUD](https://github.com/DominKim/Learning_Python/blob/master/chap09_Database/lecture02_mariaDB/step02_CRUD.ipynb)
+>
+10. 플라스크(Flask)
+~~~python3
+Flask
+~~~
