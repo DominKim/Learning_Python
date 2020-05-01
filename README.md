@@ -6,9 +6,16 @@
 >
 >> [step03_문자열](https://github.com/DominKim/Learning_Python/blob/master/chap01_Basic/lecture/step03_string.ipynb)
 >
+~~~python3
+# \(역슬래시) + ', " etc : Escape 문자
+ - 프린트 문에서 사용가능
+~~~
 2. 조건문, 반복문
 >> [step01_If(조건문)](https://github.com/DominKim/Learning_Python/blob/master/chap02_Cotrol/lecture/step01_if.ipynb)
 >
+~~~python3
+# False return value : None, 0, 0.0, 빈 컨테이너(빈 문자열, 빈 바이트열, 빈 리스트, 빈 튜플 등)
+~~~
 >> [step02_While(반복문)](https://github.com/DominKim/Learning_Python/blob/master/chap02_Cotrol/lecture/step02_while.ipynb)
 >
 >> [step03_For(반복문)](https://github.com/DominKim/Learning_Python/blob/master/chap02_Cotrol/lecture/step03_for.ipynb)
