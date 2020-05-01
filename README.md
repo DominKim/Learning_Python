@@ -18,6 +18,9 @@
 ~~~
 >> [step02_While(반복문)](https://github.com/DominKim/Learning_Python/blob/master/chap02_Cotrol/lecture/step02_while.ipynb)
 >
+~~~python3
+# continue : 현재 반복을 생략하고 다음 반복으로 넘어건다.
+~~~
 >> [step03_For(반복문)](https://github.com/DominKim/Learning_Python/blob/master/chap02_Cotrol/lecture/step03_for.ipynb)
 >
 3. 자료구조(리스트, 튜플, 세트, 딕셔너리)
