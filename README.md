@@ -57,6 +57,12 @@
 >
 >> [step04_Lambda_score(람다함수)](https://github.com/DominKim/Learning_Python/blob/master/chap05_Function/lecture/step04_lambda_score.ipynb)
 >
+~~~python3
+# lamda score : 간단한 함수를 쉽게 선언한느 방법
+x = lambda a, b : a+b
+x(10, 20)
+# 30
+~~~
 >> [step05_Inner(내장 함수)](https://github.com/DominKim/Learning_Python/blob/master/chap05_Function/lecture/step05_inner.ipynb)
 >
 >> [step06_Recursive(재귀함수)](https://github.com/DominKim/Learning_Python/blob/master/chap05_Function/lecture/step06_recursive.ipynb)
