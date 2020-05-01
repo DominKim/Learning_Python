@@ -26,10 +26,19 @@
 3. 자료구조(리스트, 튜플, 세트, 딕셔너리)
 >> [step01_List(리스트)](https://github.com/DominKim/Learning_Python/blob/master/chap03_DataStr/lecture/step01_list.ipynb)
 >
+~~~python3
+# 파괴적 : 리스트에 직접 영향을 미치수는 함수
+ - append, insert, extend, del, pop
+ - pop, del : 인덱스로 리스트 요소 삭제
+ - remove : 리스트 요소로 요소 삭제
+~~~
 >> [step02_List2](https://github.com/DominKim/Learning_Python/blob/master/chap03_DataStr/lecture/step02_list2.ipynb)
 >
 >> [step03_Tuple(튜플)](https://github.com/DominKim/Learning_Python/blob/master/chap03_DataStr/lecture/step03_tuple.ipynb)
 >
+~~~python3
+# , 을 생략하면 scala 변수 됨
+~~~
 >> [step04_Set(세트)](https://github.com/DominKim/Learning_Python/blob/master/chap03_DataStr/lecture/step04_set.ipynb)
 >
 >> [step05_Dict(딕셔너리)](https://github.com/DominKim/Learning_Python/blob/master/chap03_DataStr/lecture/step05_dict.ipynb)
