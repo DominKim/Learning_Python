@@ -1,4 +1,9 @@
 # Learning_Python
+~~~python3
+# 참고
+- ord(문자) : 문자의 아스키 코드 반환
+- chr(숫자) : 숫자의 아스키 코드 반환
+~~~
 1. 파이썬 기초
 >> [step01_변수](https://github.com/DominKim/Learning_Python/blob/master/chap01_Basic/lecture/step01_variable.ipynb)
 >
